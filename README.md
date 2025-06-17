@@ -1,4 +1,4 @@
-# Project Lyrics
+# Beat Flow
 
 Develop an elegant React.js Music Application. 
 
@@ -109,7 +109,7 @@ Here we are going to focus on 2. Creating a Topical Branch:
 
 3. To create a pull request, you must have changes committed to your new branch.
 
-4. Go to [Pull Requests](https://github.com/JavaScript-Mastery-PRO/project1_team4_repository/pulls) and click on the `New Pull Request` button.
+4. Go to Pull Requests and click on the `New Pull Request` button.
 
 5. Select the `main` branch as the `base` branch and the `jsm-dev` branch as the `compare` branch.
 
